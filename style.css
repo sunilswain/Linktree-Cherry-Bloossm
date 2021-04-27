@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css?family=Fredoka+One');
+
+:root {
+    --font:'Fredoka one', sans-serif;
+    --bgColor: rgb(0,0,0);
+    --accentColor: hsl(0, 100%, 81%);
+    --largeDeviceBg: url("https://images.unsplash.com/photo-1598063183638-4ffe7c5f0f8d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8&w=1000&q=80");
+    --smallDeviceBg: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJbDRfdwQ5P1x_XksW8w__ZuZH6EHyrhDm_XzUBH9ZAMZEVho7e8eydqmDsFtx8vnfNk0&usqp=CAU");
+}
+.links {
+    max-width: 675px;
+    width: auto;
+    display: block;
+    margin:30px auto;
+}
+body {
+    background-color: royalblue;
+    background-image: var(--smallDeviceBg);
+    background-size: 100%;
+} 
+body > img {
+    height: 100%;
+    width: 100%;
+}
+/* .grid-container{
+    margin: auto;
+    padding: 15px;
+    display: block;
+    max-width: 500px;
+    width: 500px;
+    grid-gap: 20px;
+    grid-template-rows: auto auto;
+} */
+.userName {
+    display: grid;
+    text-decoration: none;
+    color: var(--bgColor);
+    margin: auto;
+    text-align: center;
+    font-family: var(--font);
+    font-size: 20px;
+}
+.userPhoto {
+    margin: auto;
+    background-color: royalblue;
+    width: 110px;
+    height:110px;
+    display: grid;
+    border-radius: 50%; 
+    outline-color: black;
+    border: black;
+    margin: auto;
+}
+@media only screen and (min-width:600px) {
+    body {
+        background-color: royalblue;
+        background-image: var(--largeDeviceBg);
+        background-size: cover;
+        box-sizing: border-box;
+        box-sizing: 100%;
+    } 
+    .links {
+        max-width: 675px;
+        width: auto;
+        display: block;
+        margin:30px auto;
+    }
+}
+.link {
+    display: grid;
+    text-decoration: none;
+    font-size: 1.7em;
+    font-family: var(--font);
+    margin: auto;
+    color: var(--bgColor);
+    background-color: var(--accentColor);
+    margin-bottom: 20px;
+    transition: all .25s cubic-bezier(.08, .59, .29, .99);
+    box-sizing: border-box;
+    border-radius: 25px;
+    padding: 15px;
+    grid-template-columns: auto auto;
+    grid-gap: 15px;
+
+}
+
+.link > img{
+    font-size: 25px;
+}
+
+.link:hover {
+    background-color: var(--bgColor);
+    color: var(--accentColor);
+    
+}
+
