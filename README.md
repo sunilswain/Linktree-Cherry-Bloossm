@@ -1,16 +1,16 @@
 # linkFree-peach !
 
-# a simple and free to use linkTree template! 
+#### a simple and free to use linkTree template! 
 
-# Adavantages {
+#### Adavantages {
     🟢 - Easily Editable .
     🟢 - no watermarks .
     🟢 - Supports various icons i.e - g+ , youTube , spotify , discord , instagram , telegram etc.
     🟢 - supports custom roll in gifs .
     🟢 - 100% responsive .
-#  }
+####  }
 
-# templates {
+#### templates {
     ✅ - [peach-bloom|https://sunilswain.github.io/linkFree-peach/]}
-#   }
-# @credit - https://github.com/sunilswain/linkFree-peach , https://github.com/MichaelBarney/LinkFree .
+####   }
+#### @credit - https://github.com/sunilswain/linkFree-peach , https://github.com/MichaelBarney/LinkFree .
