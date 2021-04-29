@@ -5,7 +5,7 @@
     --bgColor: rgb(0,0,0);
     --accentColor: hsl(0, 100%, 81%);
     --largeDeviceBg: url("https://images.unsplash.com/photo-1598063183638-4ffe7c5f0f8d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8&w=1000&q=80");
-    --smallDeviceBg: url("https://r1.ilikewallpaper.net/iphone-x-wallpapers/download/83571/worm's-eye-view-photography-of-pink-cheery-blossom-iphone-x-wallpaper-ilikewallpaper_com.jpg");
+    --smallDeviceBg: url("https://images.unsplash.com/photo-1598063183638-4ffe7c5f0f8d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8&w=1000&q=80");
 }
 .links {
     max-width: 675px;
@@ -17,9 +17,11 @@ body {
     color: var(--bgColor);
     background-color: royalblue;
     background-image: var(--smallDeviceBg);
+    background-repeat:no-repeat;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
     background-size: cover;
-    box-sizing: border-box;
-    box-sizing: 100%;
 } 
 body > img {
     height: 100%;
