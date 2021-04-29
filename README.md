@@ -11,6 +11,6 @@
 ####  }
 
 #### templates {
-    ✅ - [peach-bloom|https://sunilswain.github.io/linkFree-peach/]}
+    ✅ - peach-bloom](#https://sunilswain.github.io/linkFree-peach/)
 ####   }
 #### @credit - https://github.com/sunilswain/linkFree-peach , https://github.com/MichaelBarney/LinkFree .
