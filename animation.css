@@ -257,7 +257,71 @@
  * ----------------------------------------
  */
 @media only screen and (min-width:600px){
+  .rainbowcat-left{
+    position: absolute;
+    width:100px; /*width of your image*/
+    height:100px; /*height of your image*/
+    left: 90%;
+    content:var(--gif);
+    margin:0; /* If you want no margin */
+    padding:0; /*if your want to padding */
+  }
 
+.rainbowcat-left-bottom{
+    position: absolute;
+    width:100px; /*width of your image*/
+    height:100px; /*height of your image*/
+    left: 90%;
+    top:90%;
+    content:var(--gif);
+    margin:0; /* If you want no margin */
+    padding:0; /*if your want to padding */
+  }
+
+.rainbowcat-right{
+    position: absolute;
+    width:100px; 
+    height:100px; 
+    right: 90%;
+    content:var(--gif);
+    margin:0; 
+    padding:0;
+  }
+
+.rainbowcat-right-bottom{
+    position: absolute;
+    width:100px; 
+    height:100px;
+    right: 90%;
+    top:90%;
+    content:var(--gif);
+    margin:0; 
+    padding:0;
+  }
+
+.rainbowcat-top{
+    position: absolute;
+    width:100px; 
+    height:100px; 
+    top: 90%;
+    left:50%;
+    right:50%;
+    content:var(--gif);
+    margin:0; 
+    padding:0;
+  }
+
+.rainbowcat-bottom{
+    position: absolute;
+    width:100px; 
+    height:100px; 
+    bottom: 90%;
+    left:50%;
+    right:50%;
+    content:var(--gif);
+    margin:0; 
+    padding:0;
+  }
   @-webkit-keyframes roll-in-right {
       0% {
         -webkit-transform: translateX(800px) rotate(540deg);
