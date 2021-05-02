@@ -21,6 +21,7 @@
 }
 body {
     color: var(--bgColor);
+    background-color: royalblue;
     background-image: var(--smallDeviceBg);
     background-repeat:no-repeat;
     background-attachment: fixed;
