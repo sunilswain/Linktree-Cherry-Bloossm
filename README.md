@@ -1,4 +1,4 @@
-# linkFree-peach !
+# linkTree-Cherry-Bloossm !
 
 #### a simple and free to use linkTree template! 
 
@@ -10,8 +10,8 @@
     🟢 - 100% responsive .
 ####  }
 
-#### templates 
+#### preview
 
-* ✅[peach-bloom](https://sunilswain.github.io/linkFree-peach/)
+* ✅[Cherry-Bloossm](https://sunilswain.github.io/inktree-Cherry-Bloossm/)
 
 #### @credit - https://github.com/sunilswain/linkFree-peach , https://github.com/MichaelBarney/LinkFree .
