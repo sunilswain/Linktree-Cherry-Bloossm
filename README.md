@@ -9,6 +9,8 @@
     🟢 - supports custom roll in gifs .
     🟢 - 100% responsive .
 ####  }
+#### @credit - https://github.com/sunilswain/Linktree-Cherry-Bloossm , https://github.com/MichaelBarney/LinkFree .
+
 
 #### preview
 
@@ -28,4 +30,4 @@ https://user-images.githubusercontent.com/69412831/123147660-292a3b00-d414-11eb-
 
 
 
-#### @credit - https://github.com/sunilswain/Linktree-Cherry-Bloossm , https://github.com/MichaelBarney/LinkFree .
+
