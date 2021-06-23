@@ -12,6 +12,6 @@
 
 #### preview
 
-* ✅[Cherry-Bloossm](https://sunilswain.github.io/inktree-Cherry-Bloossm/)
+* ✅[Cherry-Bloossm](https://sunilswain.github.io/Linktree-Cherry-Bloossm/)
 
-#### @credit - https://github.com/sunilswain/linkFree-peach , https://github.com/MichaelBarney/LinkFree .
+#### @credit - https://github.com/sunilswain/Linktree-Cherry-Bloossm , https://github.com/MichaelBarney/LinkFree .
